@@ -2,3 +2,8 @@ body {
   text-align: center;
   background-color: #fefee3;
 }
+
+.test{
+  display: flex;
+  flex-direction: row;
+}
