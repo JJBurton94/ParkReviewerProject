@@ -1,0 +1,12 @@
+.container{
+    text-align: center;
+}
+
+
+.activityList{
+    display: inline-block;
+    background-color: #D68C45;
+    width: 50%;
+    height: auto;
+    margin: 10px;
+}
