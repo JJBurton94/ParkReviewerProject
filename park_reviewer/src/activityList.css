@@ -6,8 +6,19 @@
 
 .activityList{
     display: flex;
-    background-color: #D68C45;
+    flex-direction: column;
+    background-color: #34704e;
+    color: white;
     /* width: 50%; */
     height: auto;
     margin: 10px;
+    justify-content: center;
+}
+.listData{
+    color: black;
+    background-color: white;
+    width: 80%;
+    height: auto;
+    margin: auto;
+    padding: 5px;
 }
