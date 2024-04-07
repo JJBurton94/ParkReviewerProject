@@ -1,4 +1,10 @@
 body {
   text-align: center;
-  background-color: #fefee3;
+  /* background-color: #fefee3; */
+  color: #34704e;
+}
+
+.listWrapper{
+  display: flex;
+  flex-direction: row;
 }

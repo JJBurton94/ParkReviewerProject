@@ -15,8 +15,10 @@ function App() {
     <Heading />
     <SearchBar />
     <Map />
-    <ActivityList location="The UK" />
-    <ActivityList location="Worcester" />
+    <div className='listWrapper'>
+     <ActivityList location="The UK" />
+     <ActivityList location="Bromsgrove" />
+    </div>
     <Footer />
     </body>
   );
